@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @MercyObasi
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning django framework
-- 💞️ I’m looking to collaborate on projects, companies.
+- 👀 Software developer
+- 👩‍💻 HTML || CSS || Python || Django || Javascript
+- 💞️ Open to junior software developer roles
 - 📫 Reach me via:
 - 📧 Email- mercyjohnsonone@gmail.com
-- 🤞 LinkedIn - linkedin.com/in/mercy-obasi-ba89441a3
 
 <!---
 MercyObasi/MercyObasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
